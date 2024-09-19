@@ -12,8 +12,8 @@ Esta API utiliza FastAPI y GPTResearcher para generar informes basados en consul
 
 1. Clona este repositorio:
    ```
-   git clone https://github.com/tu-usuario/tu-repositorio.git
-   cd tu-repositorio
+   git clone https://github.com/jorgeLDmesa/GPTResearcher-FastApi
+   cd GPTResearcher-FastApi
    ```
 
 2. Crea un archivo `.env` en la raíz del proyecto con las siguientes variables:
